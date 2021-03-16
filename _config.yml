@@ -60,10 +60,10 @@ author:
   avatar : "https://pbs.twimg.com/profile_images/1356662003893477379/KD3k0owO_400x400.jpg"
   bio    : "Computers Never Sleep"
   links:
-    - label: "Website"
+    - label: "Home Base"
       icon: "fas fa-fw fa-link"
       url: "https://cryptonyc.org"
-    - label: "Twitter"
+    - label: "CryptoNYC Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/crypto_nyc"
 
