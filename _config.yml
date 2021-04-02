@@ -18,10 +18,9 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   HODL
 twitter_username: crypto_nyc
-github_username: username
 minimal_mistakes_skin: default
 search: true
-
+encoding: utf-8
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -30,7 +29,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 include:
   - _pages
 
@@ -56,8 +54,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Blake Johnson"
-  avatar : "https://pbs.twimg.com/profile_images/1356662003893477379/KD3k0owO_400x400.jpg"
+  avatar : "http://www.cryptonyc.org/uploads/6/0/7/7/6077111/chain_1_orig.png"
   bio    : "Computers Never Sleep"
   links:
     - label: "Home Base"
@@ -69,11 +66,15 @@ author:
 
 defaults:
   # _posts
+  - header:
+      overlay_image: "https://images.unsplash.com/photo-1554834103-3e22ec8678f3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1651&q=80"
+      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+      caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   - scope:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
