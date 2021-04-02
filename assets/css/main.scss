@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+
+
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page {
+  margin: auto;
+  float: none;
+}
+
+.feature__item {
+  width: 49%;
+}
+
+body {
+  font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif !important;
+}

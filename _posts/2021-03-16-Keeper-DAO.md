@@ -1,5 +1,7 @@
 ---
 title: "Keeper DAO (ROOK)"
+author_profile: false
+classes: wide
 categories:
   - Whitepaper Wednesday
 tags:
