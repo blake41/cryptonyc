@@ -15,7 +15,6 @@ feature_row2:
     title: "LANE RETTIG"
     excerpt: "Lane is an experienced entrepreneur, computer scientist, investor, and educator based in New York City. He worked in quant finance at D. E. Shaw & Co., a New York-based hedge fund, as a software developer and quantitative analyst in Manhattan and Hong Kong. He holds an MBA in entrepreneurial management from the Wharton School and an MA in international studies from the Lauder Institute at the University of Pennsylvania. Lane co-founded Seratis, a healthcare communication and care coordination platform, which was acquired in 2016. He currently works as a blockchain evangelist and core developer, and writes at Etherean."
   - image_path: http://www.cryptonyc.org/uploads/6/0/7/7/6077111/chris-rusyniak-crypto-nyc_orig.jpg   
-    alt: "100% free"
     title: "CHRIS RUSYNIAK"
     excerpt: "Chris has been building ledgers, banking, and accounting systems for a long time. Growing up he designed and developed accounts receivable, billing, and inventory systems at small businesses and community organizations. There he built some of his first mobile apps on Windows PocketPC 2003.  At the Boston College Carroll School of Management he studied Computer Science, Finance, and Accounting. He started a software consulting firm at BC with his friends that built some of the first iOS and Android apps. He recently left his 6 year gig at PwC Advisory as a banking software architect to co-found and help run CryptoNYC full time. Chris is passionate about financial transparency, community credit, history and philosophy."
 
