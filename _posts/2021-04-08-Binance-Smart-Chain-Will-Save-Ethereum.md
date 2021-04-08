@@ -25,43 +25,32 @@ We put our heads together and realized that Binance has TWO dexes, [Binance Chai
 
 You have to lock your assets in the BSC bridge, managed by Binance.com.  You can't use the bridge if you...
 
-<p align="center">
-  <img width="460" height="300" src="/assets/images/Screen_Shot_2021-04-08_at_10.21.48_AM.png">
-</p>
+<img class="center-image" src="/assets/images/Screen_Shot_2021-04-08_at_10.21.48_AM.png">
 
 From a discord chat I was told that there's a 100K daily limit and 10K per transaction for stablecoins.  If you can stomach all the downsides of a centralized experience completely controlled by CZ, what lies ahead is the Disney World Magic Kingdom version of Ethereum.
 
-<p align="center">
-  <img width="460" height="300" src="/assets/images/mickey-cz.jpg">
-</p>
+<img class="center-image" src="/assets/images/mickey-cz.jpg">
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">.<a href="https://twitter.com/PancakeSwap?ref_src=twsrc%5Etfw">@PancakeSwap</a> is now the highest volume AMM<br><br>BSC Adoption has seriously exceeded expectations <a href="https://t.co/ko4D73lrGp">https://t.co/ko4D73lrGp</a> <a href="https://t.co/meNbuXGOIG">pic.twitter.com/meNbuXGOIG</a></p>&mdash; Andrew Køng (@Rewkang) <a href="https://twitter.com/Rewkang/status/1362684628058869766?ref_src=twsrc%5Etfw">February 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Using BSC after living on ETH island for my whole life is like a breath of fresh air.  It's like taking a time machine back in time to when the middle class could afford to transact on the network.  It seems like all transactions cost 5 GWEI regardless of congestion.  My fees for swapping/staking etc, the most common type of transactions on ETH were around .01 BNB ($3.6 at current prices).  Still shockingly expensive, but these transactions costs me ~$50 each on Ethereum on the same day or 93% cheaper.  
 
-<p align="center">
-  <img width="250" height="300" src="/assets/images/Screen_Shot_2021-04-08_at_10.39.25_AM.png">
-</p>
+<img width="200px" class="center-image-no-width" src="/assets/images/Screen_Shot_2021-04-08_at_10.39.25_AM.png">
 
 The brazeness of the copying is impressive unless [you've ever been to China](https://www.businessinsider.com/inside-fake-chinese-apple-store-shenzen-kunming-2015-9).  In the discord for Nerve Finance ([Curve](http://curve.fi/)) I asked what I could do with their new bridge that would bridge over ETH assets as a synthetic called anyETH.
 
-<p align="center">
-  <img width="460" height="300" src="/assets/images/Screen_Shot_2021-04-08_at_10.46.16_AM.png">
-</p>
+<img class="center-image-no-width" src="/assets/images/Screen_Shot_2021-04-08_at_10.46.16_AM.png">
 
-<p align="center">
-  <img width="460" height="300" src="/assets/images/Screen_Shot_2021-04-08_at_10.46.30_AM.png">
-</p>
+<img class="center-image-no-width" src="/assets/images/Screen_Shot_2021-04-08_at_10.46.30_AM.png">
+
 
 Convert anyETH to ETH?  They have ETH on BSC!?  Oh it's one of those ["peggy assets"](https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-bsc).  Assets from just about any asset (that [Binance.com](http://binance.com) supports?) can be moved over to BSC via the [Binance Bridge](https://www.binance.org/en/bridge), held in a trust bridge by CZ and minted on the BSC side as a pegged asset.  
 
-<p align="center">
-  <img width="460" height="300" src="/assets/images/Screen_Shot_2021-04-08_at_10.51.12_AM.png">
-</p>
+<img class="center-image" src="/assets/images/Screen_Shot_2021-04-08_at_10.51.12_AM.png">
 
 Collateral via Venus?  WTF is Venus...they issue VAI
 
-![Binance%20Smart%20Chain%20Will%20Save%20Ethereum%20e80076e6ea1e44d59302d83590f0b01d/download.png](/assets/images/download.png)
+![download.png](/assets/images/download.png)
 
 which is of course the BSC version of...DAI.
 

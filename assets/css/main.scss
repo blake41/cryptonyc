@@ -15,8 +15,25 @@
   float: none;
 }
 
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 460px;
+}
+
+.center-image-no-width {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .feature__item {
   width: 49%;
+}
+
+.twitter-tweet {
+  max-width: 450px !important;
 }
 
 body {
