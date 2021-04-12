@@ -12,11 +12,11 @@ In the world of Snow Crash , Burbclaves are the idealized gated communities. The
 
 When Vitalik coined the term scalability trilemma he noted that we can only have two out of three desirable characteristics of blockchains.
 
-<img class="center-image" src="/assets/images/scalability.png">
+<img class="center-image" src="assets/images/scalability.png">
 
 Since the scaling wars of 2017 many scalability solutions have come and gone: state channels and plasma held early promise but are mostly abandoned.  With the rise of DeFi I want to propse an alternate look at an L2 trilemma similar to the [CAP theorem in distributed computing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educba.com%2Fcap-theorem%2F&psig=AOvVaw0epQp3o6gHvDLX2GF9YHwG&ust=1616778597133000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD1muL3y-8CFQAAAAAdAAAAABAO).  L2s can have two of the following: composability, decentralization or scalability.
 
-<img class="center-image" src="/assets/images/534on8.jpeg">
+<img class="center-image" src="assets/images/534on8.jpeg">
 
 CZ has cleverly carried out an all out assault on the Ethereum mindshare of the crypto ecosystem
 
@@ -24,7 +24,7 @@ CZ has cleverly carried out an all out assault on the Ethereum mindshare of the 
 
 Binance Smart Chain is a brilliant clone of Ethereum that uses Proof of Authority rather than PoW.    CZ controls all the validators, but the fees are 95% less than Ethereum and nearly instantaneous.  BSC chooses speed and composability.  All of the DeFi apps on BSC can live on L1 and call each other allowing the permissionless innovation we've become so fond of in the Ethereum world.  In exchange you get decentralization theatre and live on Binance island.  If you're used to transacting on [Binance.com](http://binance.com) this might be an upgrade.
 
-Other L1 chains have made different compromises.  NEAR, Polkadot and Cosmos have gone with sharding while Solana uses an innovative model (Proof of History) which allows it to scale with hardware.  It's unclear if any of these strategies can give us all three pieces of the trilemma. 
+Other L1 chains have made different compromises.  NEAR, Polkadot and Cosmos have gone with sharding while Solana uses an innovative model (Proof of History) which allows it to scale with hardware.  It's unclear if any of these strategies can give us all three pieces of the trilemma.
 
 **A Rollup Centric Ethereum**
 
