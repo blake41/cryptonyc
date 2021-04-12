@@ -12,7 +12,7 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <base href="https://blake41.github.io{{site.baseurl}}/" />
+    <base href="{{site.url}}{{site.baseurl}}/" />
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
