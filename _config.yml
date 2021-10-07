@@ -16,7 +16,6 @@
 title: CryptoNYC
 email:
 url: https://blake41.github.io
-baseurl: "/cryptonyc"
 description: >- # this means to ignore newlines until "baseurl:"
   HODL
 twitter_username: crypto_nyc
